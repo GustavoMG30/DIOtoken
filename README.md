@@ -7,10 +7,10 @@ Este projeto consiste na criação de um token ERC-20 simples, desenvolvido como
 ## 🛠️ Ferramentas Utilizadas
 
 - **[OpenZeppelin](https://www.openzeppelin.com/)**: Biblioteca confiável e segura para contratos inteligentes. Facilitou a criação do token com uma estrutura simples e intuitiva — ideal para iniciantes.
-- **[Remix - Ethereum IDE](https://remix.ethereum.org/)**: Ambiente de desenvolvimento online usado para escrever, compilar e implantar o smart contract.
+- **[Remix - Ethereum IDE](https://remix.ethereum.org/)**: Ambiente de desenvolvimento online usado para escrever, compilar e implantar o smart contract. - [Solidity ^0.8.27](https://docs.soliditylang.org/)
 - **[MetaMask](https://metamask.io/)**: Carteira digital utilizada para interagir com a blockchain. Recomendada para quem está começando a desenvolver na Web3.
 - **Sepolia Testnet**: Rede de testes utilizada no projeto. Permite minerar ETH de teste (para pagar o *gas*) usando um mecanismo de Prova de Trabalho (*Proof of Work*).
-- [Solidity ^0.8.27](https://docs.soliditylang.org/)
+
 
 ## 🚀 Objetivo
 
